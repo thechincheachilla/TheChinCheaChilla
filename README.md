@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Nice to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TheChinCheaChilla.TheChinCheaChilla&style=flat-square&color=0088cc)
 
-I'm currently working as a software engineer at Seekout. In my free time I do silly things like powerlift, sleep, and watch Instagram reels.
+I'm currently working as a software engineer at Seekout. In my free time I do silly things like powerlift, sleep, and watch Instagram reels that my girlfriend (who wrote this README) sends me.
 
 
 - 🔭 I’m currently working on developing new twisty puzzles and making Minecraft MOCs out of LEGO.
