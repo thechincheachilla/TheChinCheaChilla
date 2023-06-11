@@ -33,9 +33,11 @@ I'm currently working as a software engineer at Seekout. In my free time I do si
 - ⚡ Fun fact: Wall-E is the best movie, hands down.
 
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheChinCheaChilla&show_icons=true&theme=react" />
 </a>
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheChinCheaChilla&theme=react&layout=compact" />
